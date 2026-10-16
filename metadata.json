@@ -1,0 +1,8 @@
+{
+  "name": "ApexProcure — Autonomous AI Purchasing Agent",
+  "description": "Autonomous purchasing and replenishment agent for retail and quick-commerce. Investigates inventory, demand, supplier capacity, storage, and budget constraints, executes decisions, and validates outcomes with closed-loop feedback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
